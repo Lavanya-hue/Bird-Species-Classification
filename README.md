@@ -39,8 +39,8 @@ Birds are vital indicators of biodiversity and ecosystem health, but traditional
 - XAI techniques provided meaningful insights into the models' predictions, enhancing transparency.
 
 ## Contributors
-Aditi Nadiger
-Bhoomika K
+Aditi Nadiger,
+Bhoomika K,
 Buddula Vanshika
 
 ## Acknowledgments
