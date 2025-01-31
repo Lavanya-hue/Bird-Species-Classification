@@ -37,3 +37,14 @@ Birds are vital indicators of biodiversity and ecosystem health, but traditional
 
 - **EfficientNetB2** achieved a validation accuracy of 90.84% with strong generalization.
 - XAI techniques provided meaningful insights into the models' predictions, enhancing transparency.
+
+## Contributors
+Aditi Nadiger
+Bhoomika K
+Buddula Vanshika
+
+## Acknowledgments
+Dr. Sandeep Varma N, 
+Associate Professor, 
+Department of Machine Learning, 
+BMS College of Engineering
