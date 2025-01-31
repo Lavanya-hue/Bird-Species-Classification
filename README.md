@@ -2,6 +2,9 @@
 
 This project employs state-of-the-art deep learning models to classify bird species, coupled with Explainable AI (XAI) techniques to ensure transparency and trustworthiness in predictions.
 
+Dataset link: 
+Caltech-UCSD Birds-200-2011 (CUB-200-2011) - https://www.vision.caltech.edu/datasets/cub_200_2011/
+
 ## Overview
 
 Birds are vital indicators of biodiversity and ecosystem health, but traditional methods of identifying bird species are often manual and time-intensive. This project integrates deep learning and XAI techniques to automate bird species classification while highlighting the decision-making process for improved transparency and reliability.
